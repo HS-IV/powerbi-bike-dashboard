@@ -24,7 +24,7 @@ CycleHause Bike Shop requested a dashboard that:
 ## 📊 Dashboard Preview
 
 🎥 **Watch the full walkthrough**:  
-[Click to view video demo](https://github.com/HS-IV/powerbi-bike-dashboard/blob/main/poerbi-bike-report-video.mov)
+[Click to view video demo](https://drive.google.com/file/d/1uY8Gtz9hkcWY4NwVAp0M7Gxoe3MlHVxg/view?usp=sharing)
 
 ---
 
